@@ -106,6 +106,7 @@ An overgrown temple ruin deep within a tropical rainforest.
 
 ### Refined Prompt:
 “A mysterious ancient stone temple partially reclaimed by the jungle, covered in moss, vines, and roots. Sunlight filters through thick foliage, casting beams of light onto carved pillars and statues. The air is misty, with colorful tropical birds flying overhead and a sense of ancient mystery. Ultra-realistic, cinematic jungle adventure atmosphere, 12k resolution.”
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/61ae185d-fbb3-40ef-9c21-ac00a63826aa" />
 
 ### Comparison Report:
 
@@ -134,13 +135,13 @@ Added wildlife for realism.
 Increased detail of temple carvings and vegetation density.
 
 ### Image Reproduction 3: “Cyberpunk Street Market at Night”
-🌆 The Original Image:
+### 🌆 The Original Image:
 
 A bustling futuristic street filled with neon lights, signs, and people.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/61ae185d-fbb3-40ef-9c21-ac00a63826aa" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45b42a80-0c44-4403-9be9-51988b8483cf" />
+
 
 ### Prompts Used:
-
 ### Initial Prompt:
 “Cyberpunk city street at night.”
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/95525d84-2e7e-4c91-b49a-3c9eeff05e69" />
